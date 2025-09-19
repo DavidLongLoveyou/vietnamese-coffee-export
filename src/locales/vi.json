@@ -1,0 +1,281 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "success": "Thành công",
+    "submit": "Gửi",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "view": "Xem",
+    "close": "Đóng",
+    "next": "Tiếp theo",
+    "previous": "Trước đó",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "sort": "Sắp xếp",
+    "clear": "Xóa",
+    "select": "Chọn",
+    "all": "Tất cả",
+    "none": "Không có",
+    "required": "Bắt buộc",
+    "optional": "Tùy chọn"
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "products": "Sản phẩm",
+    "process": "Quy trình",
+    "sustainability": "Bền vững",
+    "insights": "Thông tin",
+    "contact": "Liên hệ",
+    "quote": "Yêu cầu báo giá"
+  },
+  "hero": {
+    "title": "Cà Phê Việt Nam Cao Cấp Cho Thị Trường Toàn Cầu",
+    "subtitle": "Kết nối các nhà rang và nhập khẩu cà phê trên toàn thế giới với hạt Arabica và Robusta tốt nhất của Việt Nam",
+    "cta": "Yêu cầu báo giá",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "company": {
+    "name": "The Great Beans",
+    "tagline": "Hoàn hảo trong từng hạt cà phê",
+    "description": "Thành lập năm 2018, The Great Beans chuyên sản xuất và xuất khẩu hạt cà phê xanh cao cấp và cà phê Robusta, Arabica rang từ các vùng trồng nổi tiếng của Việt Nam.",
+    "mission": "Cung cấp cà phê Việt Nam tốt nhất thế giới đồng thời ủng hộ tính bền vững, nâng cao cộng đồng và quản lý môi trường.",
+    "vision": "Trở thành nhà xuất khẩu cà phê Việt Nam hàng đầu, được công nhận toàn cầu về chất lượng, tính bền vững và thực hành kinh doanh có đạo đức."
+  },
+  "stats": {
+    "yearsInBusiness": "Năm kinh doanh",
+    "countriesExported": "Quốc gia xuất khẩu",
+    "totalCustomers": "Khách hàng hài lòng",
+    "dailyProduction": "Sản xuất hàng ngày (Tấn)",
+    "certifications": "Chứng nhận"
+  },
+  "products": {
+    "badge": "Sản phẩm của chúng tôi",
+    "title": "Bộ sưu tập cà phê cao cấp",
+    "titleHighlight": "Bộ sưu tập cà phê",
+    "subtitle": "Khám phá bộ sưu tập hạt cà phê Việt Nam cao cấp được tuyển chọn cẩn thận",
+    "viewAll": "Xem tất cả sản phẩm",
+    "viewDetails": "Xem chi tiết",
+    "specifications": "Thông số kỹ thuật",
+    "requestQuote": "Yêu cầu báo giá cho sản phẩm này",
+    "downloadSpec": "Tải bảng thông số kỹ thuật",
+    "origin": "Xuất xứ",
+    "processing": "Phương pháp chế biến",
+    "grade": "Cấp độ",
+    "aroma": "Hương thơm",
+    "flavor": "Hương vị",
+    "certifications": "Chứng nhận",
+    "minimumOrder": "Đơn hàng tối thiểu",
+    "harvestSeason": "Mùa thu hoạch",
+    "moistureContent": "Độ ẩm",
+    "filters": {
+      "all": "Tất cả sản phẩm",
+      "featured": "Nổi bật",
+      "premium": "Cao cấp",
+      "organic": "Hữu cơ"
+    },
+    "defectRate": "Tỷ lệ khuyết tật"
+  },
+  "testimonials": {
+    "badge": "Câu chuyện khách hàng",
+    "title": "Được tin tưởng bởi các",
+    "titleHighlight": "Chuyên gia cà phê",
+    "subtitle": "Lắng nghe từ các đối tác quý giá trên khắp thế giới đã trải nghiệm chất lượng và dịch vụ đặc biệt định nghĩa The Great Beans.",
+    "stats": {
+      "customers": "Khách hàng hài lòng",
+      "countries": "Quốc gia phục vụ",
+      "rating": "Đánh giá trung bình",
+      "satisfaction": "Tỷ lệ hài lòng"
+    }
+  },
+  "cta": {
+    "badge": "Sẵn sàng bắt đầu?",
+    "title": "Hợp tác với",
+    "titleHighlight": "The Great Beans",
+    "subtitle": "Tham gia cùng hàng trăm khách hàng hài lòng trên toàn thế giới tin tưởng chúng tôi về cà phê Việt Nam cao cấp. Hãy thảo luận về cách chúng tôi có thể đáp ứng yêu cầu cụ thể của bạn.",
+    "primaryButton": "Nhận báo giá ngay",
+    "secondaryButton": "Tải catalog",
+    "contacts": {
+      "phone": {
+        "title": "Gọi cho chúng tôi",
+        "description": "Nói chuyện trực tiếp với đội ngũ xuất khẩu"
+      },
+      "email": {
+        "title": "Email cho chúng tôi",
+        "description": "Nhận thông tin chi tiết và báo giá"
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Phản hồi nhanh cho các yêu cầu khẩn cấp"
+      }
+    },
+    "trust": {
+      "rating": "Đánh giá khách hàng",
+      "certified": "Chất lượng được chứng nhận ISO",
+      "countries": "Quốc gia phục vụ"
+    }
+  },
+  "process": {
+    "title": "Từ trang trại đến cảng",
+    "subtitle": "Quy trình tỉ mỉ của chúng tôi đảm bảo hạt cà phê chất lượng cao nhất",
+    "cultivation": {
+      "title": "Canh tác",
+      "description": "Thực hành nông nghiệp bền vững tại các vùng trồng cà phê lý tưởng của Việt Nam"
+    },
+    "harvesting": {
+      "title": "Thu hoạch",
+      "description": "Hái tay khi chín tối ưu để phát triển hương vị tốt nhất"
+    },
+    "processing": {
+      "title": "Chế biến",
+      "description": "Phương pháp chế biến ướt và khô tiên tiến để nâng cao chất lượng hạt"
+    },
+    "grading": {
+      "title": "Phân loại",
+      "description": "Kiểm soát chất lượng nghiêm ngặt và phân loại theo tiêu chuẩn quốc tế"
+    },
+    "packaging": {
+      "title": "Đóng gói",
+      "description": "Đóng gói chuyên nghiệp để bảo quản độ tươi trong quá trình vận chuyển"
+    },
+    "export": {
+      "title": "Xuất khẩu",
+      "description": "Logistics hiệu quả đảm bảo giao hàng kịp thời đến thị trường toàn cầu"
+    }
+  },
+  "sustainability": {
+    "title": "Xuất sắc cà phê bền vững",
+    "subtitle": "Cam kết quản lý môi trường và phát triển cộng đồng",
+    "organic": {
+      "title": "Xuất sắc hữu cơ",
+      "description": "Cà phê Việt Nam thuần khiết, không hóa chất, được trồng để đa dạng sinh học và hương vị chính thống."
+    },
+    "quality": {
+      "title": "Chế biến chất lượng",
+      "description": "Công nghệ tiên tiến và tiêu chuẩn nghiêm ngặt đảm bảo cà phê Việt Nam đặc biệt nhất quán."
+    },
+    "practices": {
+      "title": "Thực hành bền vững",
+      "description": "Cam kết bảo vệ và bảo tồn môi trường tự nhiên thông qua các hành động có trách nhiệm."
+    },
+    "community": {
+      "title": "Tác động cộng đồng",
+      "description": "Hỗ trợ các cộng đồng thịnh vượng thông qua nông nghiệp hữu cơ có lợi cho nông dân, gia đình và môi trường."
+    }
+  },
+  "quote": {
+    "title": "Yêu cầu báo giá",
+    "subtitle": "Nhận giá cạnh tranh cho hạt cà phê Việt Nam cao cấp",
+    "form": {
+      "companyName": "Tên công ty",
+      "contactPerson": "Người liên hệ",
+      "email": "Địa chỉ email",
+      "phone": "Số điện thoại",
+      "country": "Quốc gia",
+      "interestedProducts": "Sản phẩm quan tâm",
+      "quantity": "Số lượng (Tấn)",
+      "packaging": "Yêu cầu đóng gói",
+      "delivery": "Địa điểm giao hàng",
+      "deliveryDate": "Ngày giao hàng mong muốn",
+      "message": "Tin nhắn bổ sung",
+      "submit": "Gửi yêu cầu báo giá",
+      "success": "Cảm ơn! Chúng tôi sẽ liên hệ trong vòng 24 giờ.",
+      "error": "Vui lòng kiểm tra thông tin và thử lại."
+    }
+  },
+  "contact": {
+    "title": "Liên hệ với chúng tôi",
+    "subtitle": "Liên lạc với các chuyên gia xuất khẩu cà phê của chúng tôi",
+    "address": "Địa chỉ",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "hours": "Giờ làm việc",
+    "hoursValue": "Thứ Hai - Thứ Sáu: 8:00 AM - 6:00 PM (GMT+7)"
+  },
+  "insights": {
+    "title": "Thông tin cà phê",
+    "subtitle": "Tin tức ngành, xu hướng thị trường và chuyên môn cà phê",
+    "readMore": "Đọc thêm",
+    "publishedOn": "Xuất bản vào",
+    "readingTime": "phút đọc",
+    "relatedPosts": "Bài viết liên quan"
+  },
+  "footer": {
+    "description": "Nhà xuất khẩu cà phê Việt Nam cao cấp kết nối thị trường toàn cầu với hạt cà phê bền vững, chất lượng cao.",
+    "quickLinks": "Liên kết nhanh",
+    "products": "Sản phẩm",
+    "company": "Công ty",
+    "support": "Hỗ trợ",
+    "followUs": "Theo dõi chúng tôi",
+    "copyright": "© 2024 The Great Beans. Tất cả quyền được bảo lưu.",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ"
+  },
+  "features": {
+    "badge": "Tại sao chọn chúng tôi",
+    "title": "Hoàn hảo trong từng hạt cà phê",
+    "description": "Khám phá điều gì làm cho The Great Beans trở thành lựa chọn ưa thích của các nhà rang và nhập khẩu cà phê trên toàn thế giới. Cam kết của chúng tôi về chất lượng, tính bền vững và đổi mới tạo nên sự khác biệt.",
+    "certification": "Chứng nhận hữu cơ & thương mại công bằng",
+    "premium_quality": {
+      "title": "Chất lượng cao cấp",
+      "description": "Hạt được tuyển chọn thủ công từ các vùng cà phê tốt nhất của Việt Nam, đảm bảo hương vị đặc biệt và chất lượng nhất quán trong mỗi lô."
+    },
+    "sustainable": {
+      "title": "Nông nghiệp bền vững",
+      "description": "Thực hành có trách nhiệm với môi trường bảo vệ đa dạng sinh học đồng thời hỗ trợ cộng đồng nông dân địa phương và bảo tồn hệ sinh thái tự nhiên."
+    },
+    "award_winning": {
+      "title": "Đoạt giải thưởng",
+      "description": "Được công nhận quốc tế về xuất sắc trong chất lượng cà phê, đổi mới chế biến và thực hành kinh doanh bền vững trên các thị trường toàn cầu."
+    },
+    "global_sourcing": {
+      "title": "Tầm với toàn cầu",
+      "description": "Mạng lưới phân phối rộng khắp trải dài 25+ quốc gia, đảm bảo chuỗi cung ứng đáng tin cậy và giao hàng kịp thời cho các đối tác quốc tế."
+    },
+    "ethically_sourced": {
+      "title": "Nguồn gốc có đạo đức",
+      "description": "Quan hệ đối tác trực tiếp với nông dân địa phương đảm bảo bồi thường công bằng, phát triển cộng đồng và thực hành chuỗi cung ứng minh bạch."
+    },
+    "fast_delivery": {
+      "title": "Giao hàng nhanh",
+      "description": "Logistics hiệu quả và quan hệ đối tác chiến lược cho phép vận chuyển nhanh chóng, đáng tin cậy đến các điểm đến toàn cầu với khả năng truy xuất đầy đủ."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Nhà xuất khẩu cà phê Việt Nam cao cấp | The Great Beans",
+      "description": "Nhà xuất khẩu cà phê Việt Nam hàng đầu chuyên về hạt Robusta và Arabica cao cấp. Trực tiếp từ trang trại đến nhà rang của bạn với đảm bảo chất lượng."
+    },
+    "about": {
+      "title": "Về chúng tôi - Nhà xuất khẩu cà phê cao cấp",
+      "description": "Tìm hiểu về The Great Beans, nhà xuất khẩu cà phê đáng tin cậy của Việt Nam với hơn 6 năm kinh nghiệm cung cấp cà phê chất lượng cao trên toàn thế giới."
+    },
+    "products": {
+      "title": "Sản phẩm cà phê cao cấp | Hạt cà phê Việt Nam",
+      "description": "Khám phá dòng hạt cà phê Việt Nam cao cấp bao gồm Robusta, Arabica và các cấp độ đặc biệt cho bán buôn và xuất khẩu."
+    },
+    "contact": {
+      "title": "Liên hệ với chúng tôi - Yêu cầu xuất khẩu cà phê",
+      "description": "Liên lạc với The Great Beans để xuất khẩu cà phê Việt Nam cao cấp. Yêu cầu báo giá, mẫu và thảo luận nhu cầu nguồn cung cà phê của bạn."
+    }
+  },
+  "categories": {
+    "all": "Tất cả sản phẩm",
+    "arabica": "Arabica",
+    "robusta": "Robusta",
+    "specialty": "Đặc biệt",
+    "arabicaDescription": "Hạt cà phê Arabica cao cấp với hương vị phức tạp và độ chua sáng, có nguồn gốc từ các vùng cao của Việt Nam.",
+    "robustaDescription": "Hạt cà phê Robusta đậm đà và đầy đặn với crema phong phú, hoàn hảo cho hỗn hợp espresso và ứng dụng thương mại.",
+    "specialtyDescription": "Hạt cà phê cấp đặc biệt đặc biệt với phương pháp chế biến độc đáo và điểm cupping xuất sắc cho những người đam mê cà phê sành điệu."
+  },
+  "filters": {
+    "all": "Tất cả sản phẩm",
+    "arabica": "Arabica",
+    "robusta": "Robusta",
+    "specialty": "Đặc biệt"
+  },
+  "noProducts": "Không tìm thấy sản phẩm cho danh mục đã chọn."
+}
